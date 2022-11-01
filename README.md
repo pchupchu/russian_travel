@@ -15,5 +15,5 @@
 
 ![так я приблизительно делала проект](https://temofeev.ru/upload/iblock/2c8/2c855e72e5a2722439658f1d4a4212af.png "два занятия")
 
-[сам проект находится здесь](https://pchupchu.github.io/russian-travel/)
+[сам проект находится здесь](https://pchupchu.github.io/russian_travel/)
 Спасибо за внимание.
